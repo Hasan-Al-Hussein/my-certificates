@@ -17,9 +17,11 @@ This repository presents my academic credentials, professional training, robotic
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="certificates/khalifa-university-bsc-computer-engineering-degree.pdf">
-        <img src="assets/previews/khalifa-university-bsc-computer-engineering-degree-preview.jpg" width="100%" alt="Bachelor of Science in Computer Engineering degree" />
-      </a>
+      <p align="center">
+        <a href="certificates/khalifa-university-bsc-computer-engineering-degree.pdf">
+          <img src="assets/previews/khalifa-university-bsc-computer-engineering-degree-preview.jpg" width="100%" alt="Bachelor of Science in Computer Engineering degree" />
+        </a>
+      </p>
       <h3>BSc in Computer Engineering</h3>
       <p><strong>Issuer:</strong> Khalifa University of Science and Technology<br />
       <strong>Awarded:</strong> July 20, 2026<br />
@@ -27,43 +29,35 @@ This repository presents my academic credentials, professional training, robotic
       <p><a href="certificates/khalifa-university-bsc-computer-engineering-degree.pdf"><strong>Open original PDF</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="certificates/khalifa-university-english-medium-certificate.pdf">
-        <img src="assets/previews/khalifa-university-english-medium-certificate-preview.jpg" width="100%" alt="Khalifa University English medium certificate" />
-      </a>
-      <h3>English Medium Certificate</h3>
-      <p><strong>Issuer:</strong> Khalifa University<br />
-      <strong>Issued:</strong> August 7, 2026<br />
-      Confirms English as the official language of instruction and records an EMSAT English score of 1500.</p>
-      <p><a href="certificates/khalifa-university-english-medium-certificate.pdf"><strong>Open original PDF</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="certificates/khalifa-university-honors-day-presidents-list.jpeg">
-        <img src="assets/previews/khalifa-university-honors-day-presidents-list-preview.jpg" width="100%" alt="Khalifa University Honors Day certificate" />
-      </a>
+      <p align="center">
+        <a href="certificates/khalifa-university-honors-day-presidents-list.jpeg">
+          <img src="assets/previews/khalifa-university-honors-day-presidents-list-preview.jpg" width="92%" alt="Khalifa University Honors Day certificate" />
+        </a>
+      </p>
       <h3>President's List - Fall 2023</h3>
       <p><strong>Issuer:</strong> Khalifa University<br />
       <strong>Recognized:</strong> May 21, 2025<br />
       Honors Day recognition for academic achievement.</p>
       <p><a href="certificates/khalifa-university-honors-day-presidents-list.jpeg"><strong>Open original image</strong></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <a href="certificates/khalifa-university-smart-mobile-application-contest.pdf">
-        <img src="assets/previews/khalifa-university-smart-mobile-application-contest-preview.jpg" width="100%" alt="Smart Mobile Application Contest participation certificate" />
-      </a>
+      <p align="center">
+        <a href="certificates/khalifa-university-smart-mobile-application-contest.pdf">
+          <img src="assets/previews/khalifa-university-smart-mobile-application-contest-preview.jpg" width="100%" alt="Smart Mobile Application Contest participation certificate" />
+        </a>
+      </p>
       <h3>Smart Mobile Application Contest</h3>
       <p><strong>Issuer:</strong> Khalifa University<br />
       <strong>Period:</strong> July 2 to September 10, 2025<br />
       Certificate of participation in SMAC.</p>
       <p><a href="certificates/khalifa-university-smart-mobile-application-contest.pdf"><strong>Open original PDF</strong></a></p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <p align="center">
         <a href="certificates/khalifa-university-deans-list-spring-fall-2024.pdf">
-          <img src="assets/previews/khalifa-university-deans-list-spring-fall-2024-preview.jpg" width="50%" alt="Khalifa University Dean's List recognition for Spring 2024 and Fall 2024" />
+          <img src="assets/previews/khalifa-university-deans-list-spring-fall-2024-preview.jpg" width="73%" alt="Khalifa University Dean's List recognition for Spring 2024 and Fall 2024" />
         </a>
       </p>
       <h3>Dean's List - Spring 2024 & Fall 2024</h3>
@@ -71,6 +65,20 @@ This repository presents my academic credentials, professional training, robotic
       <strong>Recognized:</strong> November 27, 2025<br />
       Honors Day recognition for academic achievement in both Spring 2024 and Fall 2024.</p>
       <p><a href="certificates/khalifa-university-deans-list-spring-fall-2024.pdf"><strong>Open original PDF</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <p align="center">
+        <a href="certificates/khalifa-university-english-medium-certificate.pdf">
+          <img src="assets/previews/khalifa-university-english-medium-certificate-preview.jpg" width="25%" alt="Khalifa University English medium certificate" />
+        </a>
+      </p>
+      <h3>English Medium Certificate</h3>
+      <p><strong>Issuer:</strong> Khalifa University<br />
+      <strong>Issued:</strong> August 7, 2026<br />
+      Confirms English as the official language of instruction and records an EMSAT English score of 1500.</p>
+      <p><a href="certificates/khalifa-university-english-medium-certificate.pdf"><strong>Open original PDF</strong></a></p>
     </td>
   </tr>
 </table>
@@ -129,21 +137,15 @@ This repository presents my academic credentials, professional training, robotic
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="certificates/uae-pledge-and-commitment-certificate.jpeg">
-        <img src="assets/previews/uae-pledge-and-commitment-certificate-preview.jpg" width="100%" alt="Pledge and Commitment National Initiative certificate" />
-      </a>
+    <td colspan="2" valign="top">
+      <p align="center">
+        <a href="certificates/uae-pledge-and-commitment-certificate.jpeg">
+          <img src="assets/previews/uae-pledge-and-commitment-certificate-preview.jpg" width="58%" alt="Pledge and Commitment National Initiative certificate" />
+        </a>
+      </p>
       <h3>Pledge and Commitment National Initiative</h3>
       <p>Certificate of appreciation for participation and contribution to the UAE national initiative.</p>
       <p><a href="certificates/uae-pledge-and-commitment-certificate.jpeg"><strong>Open original image</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Contact</h3>
-      <p>For professional inquiries or credential verification, connect with me through:</p>
-      <ul>
-        <li><a href="https://www.linkedin.com/in/hasan-al-hussein">LinkedIn</a></li>
-        <li><a href="https://github.com/Hasan-Al-Hussein">GitHub</a></li>
-      </ul>
     </td>
   </tr>
 </table>
