@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/Hasan-Al-Hussein"><img src="https://img.shields.io/badge/GitHub-Hasan--Al--Hussein-17233d?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/hasan-al-hussein"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" /></a>
-  <img src="https://img.shields.io/badge/Certificates-9-c89b3c?style=for-the-badge" alt="Nine certificates" />
+  <img src="https://img.shields.io/badge/Certificates-10-c89b3c?style=for-the-badge" alt="Ten certificates" />
 </p>
 
 ## Credential portfolio
@@ -57,6 +57,20 @@ This repository presents my academic credentials, professional training, robotic
       <strong>Period:</strong> July 2 to September 10, 2025<br />
       Certificate of participation in SMAC.</p>
       <p><a href="certificates/khalifa-university-smart-mobile-application-contest.pdf"><strong>Open original PDF</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <p align="center">
+        <a href="certificates/khalifa-university-deans-list-spring-fall-2024.pdf">
+          <img src="assets/previews/khalifa-university-deans-list-spring-fall-2024-preview.jpg" width="50%" alt="Khalifa University Dean's List recognition for Spring 2024 and Fall 2024" />
+        </a>
+      </p>
+      <h3>Dean's List - Spring 2024 & Fall 2024</h3>
+      <p><strong>Issuer:</strong> Khalifa University<br />
+      <strong>Recognized:</strong> November 27, 2025<br />
+      Honors Day recognition for academic achievement in both Spring 2024 and Fall 2024.</p>
+      <p><a href="certificates/khalifa-university-deans-list-spring-fall-2024.pdf"><strong>Open original PDF</strong></a></p>
     </td>
   </tr>
 </table>
@@ -137,4 +151,3 @@ This repository presents my academic credentials, professional training, robotic
 ## Document use
 
 These documents are shared solely for professional credential review. Certificate artwork, institutional marks, signatures, and related intellectual property remain with their respective issuers. Unauthorized alteration or reuse is not permitted.
-
