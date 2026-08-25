@@ -71,7 +71,7 @@ This repository presents my academic credentials, professional training, robotic
     <td colspan="2" valign="top">
       <p align="center">
         <a href="certificates/khalifa-university-english-medium-certificate.pdf">
-          <img src="assets/previews/khalifa-university-english-medium-certificate-preview.jpg" width="25%" alt="Khalifa University English medium certificate" />
+          <img src="assets/previews/khalifa-university-english-medium-certificate-preview.jpg" width="45%" alt="Khalifa University English medium certificate" />
         </a>
       </p>
       <h3>English Medium Certificate</h3>
